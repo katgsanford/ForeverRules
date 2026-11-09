@@ -1,0 +1,8 @@
+## Interface: 16001
+## Title: Forever Rules
+## Notes: Shared WoW Forever combat rules and known bugs. Read by Forever Spellmath and the Forever Coach app.
+## Author: Kat
+## Version: 12
+## X-Updated: 2026-10-30
+
+Rules.lua
